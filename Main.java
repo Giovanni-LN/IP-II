@@ -5,7 +5,6 @@ class Main {
 
   public static void main(String[] args) {
     TesteVendaMain();
-
   }
 
   public static void TesteVendaMain() {
@@ -38,4 +37,4 @@ class Main {
 
     venda.ListarItensVenda();
   }
-}
+}//
